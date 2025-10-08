@@ -16,6 +16,7 @@
 // ============================================
 // INFORMACIÓN GENERAL DE LA IGLESIA
 // ============================================
+
 export const siteInfo = {
   churchName: "Casa Profética",
   tagline: "Un lugar de encuentro con Dios",
@@ -229,6 +230,7 @@ export const aboutContent = {
 // ============================================
 // PÁGINA: MINISTERIOS
 // ============================================
+
 export const ministriesContent = {
   hero: {
     title: "Nuestros Ministerios",
@@ -243,7 +245,7 @@ export const ministriesContent = {
       description: "El ministerio de jóvenes está diseñado para adolescentes y jóvenes adultos (13-25 años) que buscan crecer en su relación con Dios mientras navegan los desafíos de su edad. Ofrecemos reuniones semanales con adoración contemporánea, enseñanzas relevantes, grupos pequeños, retiros, campamentos y actividades recreativas.",
       schedule: "Viernes 7:30 PM",
       leader: "Pastor Miguel Torres",
-      image: "youth-ministry.jpg",
+      image: "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=800",
       activities: [
         "Reuniones semanales con adoración y enseñanza",
         "Grupos pequeños de discipulado",
@@ -260,7 +262,7 @@ export const ministriesContent = {
       description: "En el ministerio infantil, los niños de 3 a 12 años descubren el amor de Jesús a través de historias bíblicas interactivas, canciones, juegos, manualidades y actividades apropiadas para su edad. Nuestros maestros capacitados crean un ambiente seguro y divertido donde los niños pueden hacer preguntas y aprender.",
       schedule: "Domingos durante el servicio principal",
       leader: "Pastora Sandra Ruiz",
-      image: "children-ministry.jpg",
+      image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=800",
       activities: [
         "Clases dominicales por edades",
         "Adoración infantil con canciones y movimiento",
@@ -277,7 +279,7 @@ export const ministriesContent = {
       description: "El equipo de adoración está formado por músicos, cantantes y técnicos comprometidos con crear una atmósfera de adoración donde la presencia de Dios se manifiesta. Practicamos semanalmente y ministramos en todos los servicios con excelencia y corazón sincero.",
       schedule: "Ensayos: Jueves 7:00 PM",
       leader: "David Hernández",
-      image: "worship-ministry.jpg",
+      image: "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=800",
       activities: [
         "Ensayos semanales del equipo",
         "Ministerio en servicios dominicales",
@@ -294,7 +296,7 @@ export const ministriesContent = {
       description: "El ministerio de evangelismo equipa y moviliza a los creyentes para compartir el evangelio efectivamente. Organizamos campañas de evangelismo, distribución de materiales, eventos en parques y plazas, y visitación casa por casa.",
       schedule: "Sábados 9:00 AM (salidas evangelísticas)",
       leader: "Roberto Sánchez",
-      image: "outreach-ministry.jpg",
+      image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=800",
       activities: [
         "Salidas evangelísticas semanales",
         "Entrenamiento en evangelismo personal",
