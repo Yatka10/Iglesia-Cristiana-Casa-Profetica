@@ -39,7 +39,7 @@ const Footer = () => {
               <img 
                 src={logo} 
                 alt={siteInfo.churchName}
-                className="h-25 w-auto mb-3"
+                className="h-20 w-auto mb-3"
               />
               <p className="text-primary-foreground/80 text-sm">{siteInfo.description}</p>
             </div>

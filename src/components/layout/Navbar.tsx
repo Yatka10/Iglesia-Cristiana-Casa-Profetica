@@ -48,7 +48,7 @@ const Navbar = () => {
             <img 
               src={logo} 
               alt={siteInfo.churchName}
-              className="h-24 w-auto transform group-hover:scale-105 transition-transform"
+              className="h-28 w-auto transform group-hover:scale-105 transition-transform"
             />
           </Link>
 
