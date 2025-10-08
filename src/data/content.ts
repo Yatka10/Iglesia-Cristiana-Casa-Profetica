@@ -64,9 +64,9 @@ export const siteInfo = {
   
   // Ubicación para Google Maps
   mapLocation: {
-    lat: 19.4326,
-    lng: -99.1332,
-    embedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.6929649380695!2d-99.13320708509182!3d19.432607986886192!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff35f5bd1563%3A0x6c366f0e2de02ff7!2sPalacio%20de%20Bellas%20Artes!5e0!3m2!1ses!2smx!4v1234567890123!5m2!1ses!2smx"
+    lat: 10.8519,
+    lng: -74.7843,
+    embedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d244.90423293085053!2d-74.78436402976513!3d10.851985652145!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef5d10067d61c21%3A0x80f17640e6b37fe8!2sCasa%20Prof%C3%A9tica!5e0!3m2!1ses-419!2sco!4v1759929471669!5m2!1ses-419!2sco"
   }
 };
 
